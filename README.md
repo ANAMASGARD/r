@@ -22,4 +22,9 @@ Each solution is implemented in R and includes an interactive visualization host
   Functions like `geom_point`, `geom_line`, `geom_rect`, `geom_segment`, `geom_text` are masked by `animint2` versions.
 
 ---
+## Medium
+
+**Confidence Interval Visualization**
+- Demo: [GitHub Pages Link](https://anamasgard.github.io/conf-int-animint/)
+- Source Code: [conf_int_viz.R](https://github.com/ANAMASGARD/conf-int-animint/blob/main/conf_int_viz.R)
 
