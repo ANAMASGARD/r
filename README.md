@@ -1,5 +1,3 @@
-# r
-
 # R Test Solutions
 
 This repository consolidates all my GSoC 2026 test submissions for the animint2 project.
@@ -28,3 +26,14 @@ Each solution is implemented in R and includes an interactive visualization host
 - Demo: [GitHub Pages Link](https://anamasgard.github.io/conf-int-animint/)
 - Source Code: [conf_int_viz.R](https://github.com/ANAMASGARD/conf-int-animint/blob/main/conf_int_viz.R)
 
+---
+
+**Bootstrap i.i.d. Resampling**
+- **Demo**: [GitHub Pages Link](https://anamasgard.github.io/boot-iid-animint/)
+- **Source Code**: [boot_iid_viz.R](https://github.com/ANAMASGARD/boot-iid-animint/blob/main/boot_iid_viz.R)
+
+---
+
+**k-Fold Cross Validation**
+- **Demo**: [GitHub Pages Link](https://anamasgard.github.io/cv-ani-animint/)
+- **Source Code**: [cv_ani_viz.R](https://github.com/ANAMASGARD/cv-ani-animint/blob/main/cv_ani_viz.R)
