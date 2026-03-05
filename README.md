@@ -20,7 +20,7 @@ Each solution is implemented in R and includes an interactive visualization host
   Functions like `geom_point`, `geom_line`, `geom_rect`, `geom_segment`, `geom_text` are masked by `animint2` versions.
 
 ---
-## Medium
+### 2. Medium Test Solutions
 
 **Confidence Interval Visualization**
 - Demo: [GitHub Pages Link](https://anamasgard.github.io/conf-int-animint/)
@@ -37,3 +37,10 @@ Each solution is implemented in R and includes an interactive visualization host
 **k-Fold Cross Validation**
 - **Demo**: [GitHub Pages Link](https://anamasgard.github.io/cv-ani-animint/)
 - **Source Code**: [cv_ani_viz.R](https://github.com/ANAMASGARD/cv-ani-animint/blob/main/cv_ani_viz.R)
+
+---
+
+### 3. Medium-Hard Test Solution
+
+- **Gallery URL**: [GitHub Pages Link](https://anamasgard.github.io/Gaurav-Animint-Gallery/)
+- **Source Code**: [index.Rmd](https://github.com/ANAMASGARD/Gaurav-Animint-Gallery/blob/gh-pages/index.Rmd)
