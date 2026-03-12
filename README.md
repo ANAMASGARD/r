@@ -44,3 +44,10 @@ Each solution is implemented in R and includes an interactive visualization host
 
 - **Gallery URL**: [GitHub Pages Link](https://anamasgard.github.io/Gaurav-Animint-Gallery/)
 - **Source Code**: [index.Rmd](https://github.com/ANAMASGARD/Gaurav-Animint-Gallery/blob/gh-pages/index.Rmd)
+
+---
+
+### 4. Hard Test Solution
+
+- **Video Demonstration**: [YouTube](https://youtu.be/nRcdeblYdmY?si=u6BNbREhlXkWZvku)
+- **Pull Request**: [animint/animint2#310](https://github.com/animint/animint2/pull/310)
