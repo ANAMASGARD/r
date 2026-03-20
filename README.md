@@ -49,5 +49,5 @@ Each solution is implemented in R and includes an interactive visualization host
 
 ### 4. Hard Test Solution
 
-- **Video Demonstration**: [YouTube](https://youtu.be/nRcdeblYdmY?si=u6BNbREhlXkWZvku)
+- **Video Demonstration**: [YouTube](https://www.youtube.com/watch?v=v5xcP2a0j_8)
 - **Pull Request**: [animint/animint2#310](https://github.com/animint/animint2/pull/310)
